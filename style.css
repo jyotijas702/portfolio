@@ -1,0 +1,26 @@
+body{
+  background-color: lightgoldenrodyellow;
+}
+header{
+  color: brown;
+
+}
+h2{
+  color: purple;
+}
+#education{
+  color: orangered;
+}
+#projects{
+  color: blue;
+}
+
+#skills{
+  color: darkred;
+}
+#hobbies{
+  color: darkgreen;
+}
+#awards{
+  color: red;
+}
