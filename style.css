@@ -3,10 +3,11 @@ body{
 }
 header{
   color: brown;
+  font: size 10px;
 
 }
 h2{
-  color: purple;
+  color:darkmagenta;
 }
 #education{
   color: orangered;
@@ -16,7 +17,7 @@ h2{
 }
 
 #skills{
-  color: darkred;
+  color:darkcyan;
 }
 #hobbies{
   color: darkgreen;
